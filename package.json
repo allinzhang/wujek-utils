@@ -1,7 +1,8 @@
 {
-  "name": "wujek-utils",
+  "name": "@wujek/wujek-utils",
   "version": "1.0.0",
   "description": "常用工具库",
+  "private": false,
   "scripts": {
     "build": "rollup -c",
     "test": "jest"
